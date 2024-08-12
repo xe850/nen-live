@@ -32,14 +32,11 @@
       "src": "/images/icons/maskable-icon-152x152.png",
       "type": "image/png",
       "sizes": "152x152"
-      "purpose": "maskable"
     },
     {
       "src": "/images/icons/maskable-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
-      "purpose": "maskable"
-      
     },
     {
       "src": "/images/icons/icon-384x384.png",
